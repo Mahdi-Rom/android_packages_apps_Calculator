@@ -33,6 +33,7 @@
   <string name="hexPanel">הקס</string>
   <string name="lock">נעל עמוד</string>
   <string name="unlock">פתח עמוד</string>
+  <string name="info">מידע נוסף</string>
   <string name="copy">העתק \"%s\"</string>
   <string name="remove_from_history">הסר מההיסטוריה</string>
   <string name="showHistory">הצג הסטוריה</string>
@@ -63,14 +64,17 @@
   <string name="pref_theme">ערכת עיצוב</string>
   <string name="pref_about">אודות</string>
   <string name="returnToBasic">חזרה לחלונית בסיסית</string>
+  <string name="infiniteScrolling">גלילה אינסופית</string>
   <string name="clickToOpenHistory">לחץ כדי לפתוח היסטוריה</string>
   <string name="digitGrouping">קיבוץ ספרות</string>
   <string name="trigUnits">יחידות בטריגונומטריה</string>
   <string name="radians">רדיאנים</string>
   <string name="degrees">מעלות</string>
-  <string name="holo">Holo</string>
-  <string name="holo_light">לבן</string>
-  <string name="holo_dark">כהה</string>
+  <string name="theme">ערכת נושא</string>
+  <string name="showDetails">הצג פרטים</string>
+  <string name="floatingCalc">מחשבון צף</string>
+  <string name="vibrateOnPress">רטט במגע</string>
+  <string name="showWidgetBackground">הצג רקע יישומון</string>
   <string name="cling_simple_title">ברוך הבא</string>
   <string name="cling_simple_msg">החלק ימינה ושמאלה לעוד דברים. אפשר להשבית דפים לא נחוצים בהעדפות.</string>
   <string name="cling_matrix_title">מטריצות</string>
@@ -80,7 +84,6 @@
   <string name="cling_graph_title">גרף</string>
   <string name="cling_graph_msg">גרפים יופיעו כאן אוטומטית. לך לחלון מתקדם ובנה פונקציה עם X ו-Y.</string>
   <string name="cling_dismiss">אישור</string>
-  <string name="dec_separator">,</string>
   <string name="bin_separator">\u0020</string>
   <string name="hex_separator">\u0020</string>
   <item name="dec_separator_distance" type="integer">3</item>
@@ -89,4 +92,8 @@
   <string name="dot">.</string>
   <string name="matrix_separator">,</string>
   <string name="easter_egg">Magikarp השתמש ב-Splash, אבל כלום לא קרה.</string>
+  <string name="glass_start">חשב</string>
+  <string name="voice_detection_failed">חישוב נכשל, לנסות שוב?</string>
+  <string name="voice_detection_repeat">לחשב שוב?</string>
+  <string name="speech_helper_negative" formatted="false">שלילי %s</string>
 </resources>
